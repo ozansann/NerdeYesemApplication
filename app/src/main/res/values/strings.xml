@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Nerde Yesem</string>
+    <string name="AuthenticationError">Kimlik doğrulama hatası</string>
+    <string name="AuthenticationFailed">Kimlik doğrulama başarısız oldu</string>
+    <string name="AuthenticationHelp">Doğrulama yardımı"</string>
+    <string name="FingerPrintHardwareNotDetected">Cihazınız parmak izi ile girişi desteklemiyor.</string>
+    <string name="EnableFingerprintPermission">Lütfen parmakizi okuma iznini etkinleştirin.</string>
+    <string name="HasNotEnrolledFingerprints">Kaydedilmiş bir parmak izi bulunamadı. Lütfen cihaz ayarlarında bir parmak izi kaydedin.</string>
+    <string name="HasNotLockScreenEnabled">Lütfen cihazınızın ayarlarından kilit ekranı güvenliğini etkinleştirin.</string>
+    <string name="LoginSuccessful">Giriş Başarılı!"</string>
+</resources>
